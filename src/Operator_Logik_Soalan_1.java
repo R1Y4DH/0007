@@ -26,3 +26,4 @@ BI = input.next().charAt(0);
 if (Bil_A<4){     
 Ulasan = ("Anda tidak layak memasuki Kelas Sains Komputer")}
 }
+Be gone
